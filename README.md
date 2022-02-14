@@ -1,7 +1,7 @@
 Hi, I’m @TopherM  👋 
 
 I'm an old IT fart... 
-   interested in doing small, personal, software projects for the purpose of utility and education.
+   interested in doing small, personal, software projects for the purpose of personal utility and education.
 
 I’m currently learning C#, Python, Sketch
 
